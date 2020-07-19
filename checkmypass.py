@@ -1,7 +1,6 @@
 import requests
 import hashlib
 import sys
-import pdb
 
 
 def request_api_data(query_char):
