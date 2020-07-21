@@ -1,6 +1,6 @@
 # passwordchecker
 This script uses haveibeenpwned api to see if any of the given passwords
-are contained in a data breach. Simply put, it will check 
+are contained in a data breach. Simply put, it checks 
 if your passwords have ever been hacked. 
 
 You will need python3 and requests module installed.
