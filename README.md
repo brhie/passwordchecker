@@ -11,4 +11,6 @@ give all the hashed passwords that match the first 5 letters. Finally, it will c
 
 How to use it: From the command line/terminal, enter as many passwords as you want as arguments. 
 
-ex) python3 checkmypass.py password123 testpassword1 passwordtest123 
+example below
+
+    python3 checkmypass.py password123 testpassword1 passwordtest123 
